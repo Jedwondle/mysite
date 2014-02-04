@@ -1,0 +1,83 @@
+@font-face
+{
+   font-family: alex;
+   src: url(/fonts/AlexBrush-Regular.ttf);
+}
+
+@font-face
+{
+   font-family: alm-b;
+   src: url(/fonts/Almendra-Bold.otf);
+}
+
+@font-face
+{
+   font-family: alm-bi;
+   src: url(/fonts/Almendra-BoldItalic.otf);
+}
+
+@font-face
+{
+   font-family: almD-r;
+   src: url(/fonts/AlmendraDisplay-Regular.otf);
+}
+
+@font-face
+{
+   font-family: alm-i;
+   src: url(/fonts/Almendra-Italic.otf);
+}
+
+@font-face
+{
+   font-family: alm-r;
+   src: url(/fonts/Almendra-Regular.otf);
+}
+
+@font-face
+{
+   font-family: almsc-b;
+   src: url(/fonts/AlmendraSC-Bold.otf);
+}
+
+@font-face
+{
+   font-family: almsc-bi;
+   src: url(/fonts/AlmendraSC-BoldItalic.otf);
+}
+
+@font-face
+{
+   font-family: almsc-i;
+   src: url(/fonts/AlmendraSC-Italic.otf);
+}
+
+@font-face
+{
+   font-family: almsc-r;
+   src: url(/fonts/AlmendraSC-Regular.otf);
+}
+
+@font-face
+{
+   font-family: bodonitown
+   src: url(/fonts/Bodonitown.ttf);
+}
+
+@font-face
+{
+   font-family: neorD;
+   src: url(/fonts/NEORD___.ttf);
+}
+
+@font-face
+{
+   font-family: neorF;
+   src: url(/fonts/NEORF___.ttf);
+}
+
+@font-face
+{
+   font-family: neorS
+   src: url(/fonts/NEORS___.ttf);
+}
